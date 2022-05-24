@@ -1,2 +1,3 @@
 # brunch_clone
-https://brunch.co.kr/
+original: https://brunch.co.kr/ </br>
+clone: https://bunchsh.github.io/portfolio/brunchClone
